@@ -20,7 +20,10 @@ Once you ON the toggle button, you will see a option for ``` load unpacked ```, 
 
 That's all!
 
-# How is it working?
 
-Coming Soon... 
+
+
+
+
+# ******Feel free to fork it and DON't FORGET to give a STAR (If you find it informative)******
 
